@@ -22,6 +22,6 @@ public class User {
     }
 
     public void setPassWord(String newPassWord) {
-        passWord = newPassWord;
+        passWord = "hej";
     }
 }
